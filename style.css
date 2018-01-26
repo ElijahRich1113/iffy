@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: teal;
+    font-family: 'VT323', monospace;
+}
+
+h1 {
+    font-size: 120px;
+}
+
+#question {
+    font-size: 38px;
+}
+
+#output {
+    font-size: 46px;
+}
+
+#btn1 {
+    width: 120px;
+    height: 60px;
+    font-size: 30px;
+    padding-top: 18px;
+}
+
+#input {
+    width: 120px;
+    height: 60px;
+    font-size: 55px;
+}
